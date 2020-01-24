@@ -1,3 +1,3 @@
 # Pomodoro
 
-Simple pomooro app build in JavaFX
+Simple pomodoro app build in JavaFX
